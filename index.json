@@ -1,0 +1,11 @@
+{
+  "org": "mpdavis",
+  "repo": "python-jose",
+  "versions": [
+    {
+      "commit": "018b310ddb8b50dcfd09a0c152117835a21dd656",
+      "tag": "3.5.0",
+      "parsed_at": "2026-10-18T05:01:25.392980+00:00"
+    }
+  ]
+}
