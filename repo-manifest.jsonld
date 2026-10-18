@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mpdavis/python-jose/commit/018b310ddb8b50dcfd09a0c152117835a21dd656",
       "git:hexsha": "018b310ddb8b50dcfd09a0c152117835a21dd656",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "3.5.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "3.5.0",
+      "repolex:parsedAt": "2026-10-18T05:01:25.392496+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mpdavis/python-jose/commit/0913db29d0a96dde33e65e6a6bb9d78b7486f534",
